@@ -169,7 +169,7 @@ main {
 .flex-item:first-child {
       min-height: 400px;
       flex-basis: 100%;
-      background-image: url(assets/automotive-repair.jpeg);
+      background-image: url(assets/spoopy.png);
 }
 /* Also added the background image */
 .flex-item:last-child {
