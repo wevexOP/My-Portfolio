@@ -160,7 +160,7 @@ main {
     background-size: 150%;
     transition: all 0.5s;
     font-size: 0.9rem;
-    background-image: url(assets/pdins.png);
+    background-image: url(assets/spoopy.png);
    
 }
   
@@ -169,7 +169,7 @@ main {
 .flex-item:first-child {
       min-height: 400px;
       flex-basis: 100%;
-      background-image: url(assets/spoopy.png);
+      background-image: url(assets/cinder.png);
 }
 /* Also added the background image */
 .flex-item:last-child {
